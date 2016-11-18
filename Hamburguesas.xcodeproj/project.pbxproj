@@ -12,6 +12,7 @@
 		F075F6B21DDEAA2C009AD89B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F075F6B01DDEAA2C009AD89B /* Main.storyboard */; };
 		F075F6B41DDEAA2C009AD89B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F075F6B31DDEAA2C009AD89B /* Assets.xcassets */; };
 		F075F6B71DDEAA2C009AD89B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F075F6B51DDEAA2C009AD89B /* LaunchScreen.storyboard */; };
+		F075F6BF1DDEAAA8009AD89B /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = F075F6BE1DDEAAA8009AD89B /* Datos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F075F6B31DDEAA2C009AD89B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F075F6B61DDEAA2C009AD89B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F075F6B81DDEAA2C009AD89B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F075F6BE1DDEAAA8009AD89B /* Datos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				F075F6B31DDEAA2C009AD89B /* Assets.xcassets */,
 				F075F6B51DDEAA2C009AD89B /* LaunchScreen.storyboard */,
 				F075F6B81DDEAA2C009AD89B /* Info.plist */,
+				F075F6BE1DDEAAA8009AD89B /* Datos.swift */,
 			);
 			path = Hamburguesas;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			files = (
 				F075F6AF1DDEAA2C009AD89B /* ViewController.swift in Sources */,
 				F075F6AD1DDEAA2C009AD89B /* AppDelegate.swift in Sources */,
+				F075F6BF1DDEAAA8009AD89B /* Datos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
